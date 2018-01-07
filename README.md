@@ -1,5 +1,9 @@
 # JHTMLLET
 Project for Script Languages course during studies
+
+## What is it about ##
+Topic of this project was found [here](http://pl.spoj.com/problems/JHTMLLET/)
+
 ## Technologies used: ##
 * Python to create html file with in/out data
 * Batch to create simple menu
@@ -10,3 +14,4 @@ Project for Script Languages course during studies
 - [ ] Implement more functionalities in C++ app
 - [ ] Improve batch script
 - [ ] Make whole app executable on every OS
+
